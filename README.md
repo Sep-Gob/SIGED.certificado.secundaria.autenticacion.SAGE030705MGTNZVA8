@@ -1,0 +1,2 @@
+# SIGED.certificado.secundaria.autenticacion.SAGE030705MGTNZVA8
+SAGE030705MGTNZVA8
